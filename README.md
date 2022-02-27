@@ -6,3 +6,5 @@
 - Import recon.py in a jupyter notebook and 3D reconstruct tomograms using one line code
 - No installation necessary, download the files and run the code
 - For Example code see test_3D.ipynb
+
+![image](https://user-images.githubusercontent.com/63173077/155897970-71a956e4-edf8-4251-af3d-e35c13de79de.png)
